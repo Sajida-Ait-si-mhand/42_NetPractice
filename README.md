@@ -8,7 +8,7 @@
 - 🎉 **Feature 1**
 - 🚀 **Feature 2**
 
-![Feature Demo](/home/saait-si/Downloads/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥 ᖭ<0f72>༏ᖫ<0f80>.gif)
+![Feature Demo](images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥%20ᖭི༏ᖫྀ.gif)
 
 ## Installation
 1. Clone the repository:
