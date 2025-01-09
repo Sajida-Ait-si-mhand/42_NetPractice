@@ -11,35 +11,33 @@ This project teaches you about networking concepts, particularly TCP/IP addressi
 ---
 
 ## Chapter 1:  
+🎉 **1. Networking Basics:**  
 
-## What to study :   
-
-- 🎉 **1. Networking Basics:**  
-         - TCP/IP Addressing: Understand IP addresses, subnet masks, and routing.  
-         - Devices like routers and how they interact in a network.  
-         - Common networking issues and troubleshooting strategies.  
+       **- TCP/IP Addressing:** Understand IP addresses, subnet masks, and routing.  
+       **- Devices:** How routers and other devices interact in a network.  
+       **- Common networking issues:** Troubleshooting strategies.
 
 ---
 
 ## Chapter 2:  
+🎉 **2. Practical Network Configuration:**  
 
-- 🎉 **2. Practical Network Configuration:**  
-         - How to set up and configure networks to make them functional.  
-         - Reading and interpreting network diagrams.  
+       **- Set up networks:** How to make them functional.  
+       **- Network diagrams:** Reading and interpreting them.
 
 ---
 
 ## Chapter 3:  
+🎉 **3. Using the Training Interface:**  
 
-- 🎉 **3. Using the Training Interface:**  
-         - Familiarize yourself with the provided web-based training platform.  
+       **- Interface familiarity:** Explore the web-based training platform.  
 
 ---
 
 ## Chapter 4:  
+🎉 **4. Logs and Error Diagnosis:**  
 
-- 🎉 **4. Logs and Error Diagnosis:**  
-         - Understand how to use logs to identify and fix configuration problems.  
+       **- Log utilization:** Identify and fix configuration problems.  
 
 ---
 
