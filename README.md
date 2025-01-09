@@ -14,6 +14,7 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
          - TCP/IP Addressing: Understand IP addresses, subnet masks, and routing.   
          - Devices like routers and how they interact in a network.   
          - Common networking issues and troubleshooting strategies.    
+-------
 
 -  **2.Practical Network Configuration:**   
          - How to set up and configure networks to make them functional.  
@@ -24,9 +25,10 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 -------
 
 -  **4.Logs and Error Diagnosis:**    
-   
          - Understand how to use logs to identify and fix configuration problems. 
 -------
+<span style="color: green"> Some green text </span>
+<font color="green"> Some green text </font>
 
 ## Installation
 1. Clone the repository:
