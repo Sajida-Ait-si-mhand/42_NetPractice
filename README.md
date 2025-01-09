@@ -8,7 +8,8 @@
 - 🎉 **Feature 1**
 - 🚀 **Feature 2**
 
-
+this project teach you about networking concepts, Particularly TCP/IP addressing by exercices, In total we have
+10 problem to solve  
 ## Installation
 1. Clone the repository:
    ```bash
