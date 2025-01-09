@@ -1,16 +1,13 @@
 # 42_NetPractice
-....
+![Feature Demo](images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥%20ᖭི༏ᖫྀ.gif)
 
 
-![Banner](assets/banner.gif)
 
-## The purpose of this project :
+
+## The purpose of NetPractice :
 - 🎉 **Feature 1**
 - 🚀 **Feature 2**
-- 🚀 *Feature 2*
-- 🚀 ***Feature 2***
 
-![Feature Demo](images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥%20ᖭི༏ᖫྀ.gif)
 
 ## Installation
 1. Clone the repository:
