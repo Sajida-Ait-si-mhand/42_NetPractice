@@ -43,7 +43,7 @@ Type of Netwok:
                   (e.g: cluster, home)    
          3.WAN (Wide Area Network) :   
                   is a group of LAN 
-                  e.g: group of houses.   
+                \t  e.g: group of houses.   
          4.MAN (Metropolitan Area Network):    
                   e.g: A company with offices in different cities or countries connected to the same network.   
          
