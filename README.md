@@ -1,5 +1,5 @@
 # 42_NetPractice
-![Feature Demo](images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥%20ᖭི༏ᖫྀ.gif)
+<!--this is the other way to  ![Feature Demo](images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥%20ᖭི༏ᖫྀ.gif) -->
 
 
 
