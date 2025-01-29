@@ -42,7 +42,7 @@ this is for coloring:
 ```bash
 echo -e "\e[31mThis is red text\e[0m"
 ```
-![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Red+Text)
+![Red Text](https://www.google.com/search?sca_esv=b1220a1998e9d372&q=good&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z76PcpKL71TDvYjBBbnH5xvWsMxGCqZDRZy-gCED0F_SV97e_sIInTfC87U2OoLyVmHKRIwLbrycUtfsdei_fTBNaAuV8q6VsTvz9n3e95FsiaUYMZ4s-tW8qWoeU7ztc1p4FEh&sa=X&ved=2ahUKEwjY6s7M8pmLAxUDX_EDHQPyAJsQtKgLegQIDRAB&biw=1920&bih=927&dpr=1#vhid=4dqJxvjv2YdIdM&vssid=mosaic)
 
 
 ## What to study :   
