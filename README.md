@@ -91,9 +91,8 @@ Let's go to learn new things:
      🚀 Hub: Imagine we have 4 devices (hosts), and I want to send a message from host-1 to host-4. I would need a hub, which will broadcast the message to all the hosts—host-1, host-2, host-3, and host-4. The hub doesn’t filter the traffic, so it sends the message to everyone in the network.
 
 ---
-## Switch:  
-
-🚀 Switch: Now, imagine the same scenario with a switch. Instead of sending the message to all devices, the switch will intelligently forward the message from host-1 to host-4 without broadcasting it to the other hosts. The switch creates a more efficient and focused communication path.
+## Switch:
+    🚀 Switch: Now, imagine the same scenario with a switch. Instead of sending the message to all devices, the switch will intelligently forward the message from host-1 to host-4 without broadcasting it to the other hosts. The switch creates a more efficient and focused communication path.
 ---
 💜 .Conclusion: Both the hub and the switch help create a network, but while the hub broadcasts data to all devices, the switch directs it to the intended destination only.
 
