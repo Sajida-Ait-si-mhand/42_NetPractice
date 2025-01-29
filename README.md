@@ -88,7 +88,8 @@ Let's go to learn new things:
 ## router, hub and switch:
 
 🚀 **Hub**:  
-     ### Hub: Imagine we have 4 devices (hosts), and I want to send a message from host-1 to host-4. I would need a hub, which will broadcast the message to all the hosts—host-1, host-2, host-3, and host-4. The hub doesn’t filter the traffic, so it sends the message to everyone in the network.
+     ### Hub: 
+     Imagine we have 4 devices (hosts), and I want to send a message from host-1 to host-4. I would need a hub, which will broadcast the message to all the hosts—host-1, host-2, host-3, and host-4. The hub doesn’t filter the traffic, so it sends the message to everyone in the network.
 
 ---
 
