@@ -16,11 +16,23 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
     BLA BLA    
 ## Contributing (guidelines for contributions):    
   link for tldraw    
-## License (if applicable):    
-  🚁 .How internet works : https://www.youtube.com/watch?v=x3c1ih2NJEg       
-  🚁 .Subnet : https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE    
-  🚁 .How IP's works : https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF   
-  🚁 .OSI model : https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3    
+## License :    
+🚁 [How internet works](https://www.youtube.com/watch?v=x3c1ih2NJEg)   
+🚁 [Subnet](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)   
+🚁 [How IPs work](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)    
+🚁 [OSI model](https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3)     
+        
+| Topic               | Link |
+|---------------------|------|
+| 🚁 How internet works | [Watch here](https://www.youtube.com/watch?v=x3c1ih2NJEg) |    
+| 🚁 Subnet           | [Watch here](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE) |    
+| 🚁 How IPs work     | [Watch here](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF) |     
+| 🚁 OSI model       | [Watch here](https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3) |    
+ 
+🚁 <a href="https://www.youtube.com/watch?v=x3c1ih2NJEg">How internet works</a>&nbsp;&nbsp;&nbsp;  
+🚁 <a href="https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE">Subnet</a>&nbsp;&nbsp;&nbsp;  
+🚁 <a href="https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF">How IPs work</a>&nbsp;&nbsp;&nbsp;  
+🚁 <a href="https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3">OSI model</a>  
 
 
 
