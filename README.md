@@ -7,7 +7,43 @@
 ## The purpose of NetPractice :
 
 This project teach you about networking concepts, Particularly TCP/IP addressing by exercices, In total we have
-10  exercises/levels to solve    
+10  exercises/levels to solve  
+
+## Installation (how to set it up):
+    BLA BLA BLA
+## Usage (how to run the project):
+    BLA BLA 
+## Contributing (guidelines for contributions):
+  link for tldraw
+## License (if applicable):
+  How internet works : https://www.youtube.com/watch?v=x3c1ih2NJEg
+  How IP's works : https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF
+  Subnet : https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE
+  OSI model : https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3
+
+
+
+
+-------------------------------------------------------------------------
+THIS IS JUTT AN EXAMPLE:
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Features](#features)  
+![GitHub stars](https://img.shields.io/github/stars/user/repo)  
+![GitHub forks](https://img.shields.io/github/forks/user/repo)  
+![Demo](https://github.com/user/repo/blob/main/demo.gif)  
+🚀 Features  
+- 🔥 Fast execution  
+- ✅ Easy to use  
+Use bold (**bold**) and italics (*italics*) to highlight key points.
+------------------------------------------------------------------------
+
+this is for coloring:
+```bash
+echo -e "\e[31mThis is red text\e[0m"
+```
+![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Red+Text)
+
 
 ## What to study :   
 -  **1.Networking Basics:**   
@@ -27,8 +63,28 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 -  **4.Logs and Error Diagnosis:**    
          - Understand how to use logs to identify and fix configuration problems. 
 -------
+=======
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+
+Let's go to learn new things:   
+    
+What is Network:      
+         It is a group of two computer or more that can share information between them (The purpose of a network is to enable communication and data sharing between devices.)   
+Type of Netwok:   
+         We have 4 type of networking    
+         1.PAN  (Personal Area Network):   
+                  for Personal devive    
+                  (e.g. Phone, computer, other device..)   
+         2.LAN (Local Area Network) :           
+                  Group of devives that connnected to the Wi-Fi (inside of our Wi-fi box has a switch and router do not worry about that we will clarify it more)   
+                  (e.g: cluster, home)    
+         3.WAN (Wide Area Network) :   
+                  is a group of LAN 
+                \t  e.g: group of houses.   
+         4.MAN (Metropolitan Area Network):    
+                  e.g: A company with offices in different cities or countries connected to the same network.   
+         
+<span style="color: green"> Some green text </span>
+<font color="green"> Some green text </font>
+
+
