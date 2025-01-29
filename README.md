@@ -30,7 +30,7 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 
 
 
--------------------------------------------------------------------------
+<!-- -------------------------------------------------------------------------
 THIS IS JUTT AN EXAMPLE:
 - [Installation](#installation)  
 - [Usage](#usage)  
@@ -65,7 +65,7 @@ Use bold (**bold**) and italics (*italics*) to highlight key points.
 -  **4.Logs and Error Diagnosis:**    
          - Understand how to use logs to identify and fix configuration problems. 
 -------
-=======
+======= -->
 
 
 Let's go to learn new things:   
