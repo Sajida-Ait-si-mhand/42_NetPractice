@@ -3,7 +3,7 @@
 
 
 
-<img src="/images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥 ᖭི༏ᖫྀ.gif" width="300">
+<img src="/images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥 ᖭི༏ᖫྀ.gif" width="800">
 
 ## The purpose of NetPractice :
 
