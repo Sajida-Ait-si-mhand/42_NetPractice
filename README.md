@@ -3,6 +3,7 @@
 
 
 
+<img src="/images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥 ᖭི༏ᖫྀ.gif" width="300">
 
 ## The purpose of NetPractice :
 
@@ -36,11 +37,9 @@ THIS IS JUTT AN EXAMPLE:
 - 🔥 Fast execution  
 - ✅ Easy to use  
 Use bold (**bold**) and italics (*italics*) to highlight key points.
+![Red Text](https://www.google.com/search?sca_esv=b1220a1998e9d372&q=good&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z76PcpKL71TDvYjBBbnH5xvWsMxGCqZDRZy-gCED0F_SV97e_sIInTfC87U2OoLyVmHKRIwLbrycUtfsdei_fTBNaAuV8q6VsTvz9n3e95FsiaUYMZ4s-tW8qWoeU7ztc1p4FEh&sa=X&ved=2ahUKEwjY6s7M8pmLAxUDX_EDHQPyAJsQtKgLegQIDRAB&biw=1920&bih=927&dpr=1#vhid=4dqJxvjv2YdIdM&vssid=mosaic)
 ------------------------------------------------------------------------
 
-this is for coloring:
-"\e[31mThis is red text\e[0m"
-![Red Text](https://www.google.com/search?sca_esv=b1220a1998e9d372&q=good&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z76PcpKL71TDvYjBBbnH5xvWsMxGCqZDRZy-gCED0F_SV97e_sIInTfC87U2OoLyVmHKRIwLbrycUtfsdei_fTBNaAuV8q6VsTvz9n3e95FsiaUYMZ4s-tW8qWoeU7ztc1p4FEh&sa=X&ved=2ahUKEwjY6s7M8pmLAxUDX_EDHQPyAJsQtKgLegQIDRAB&biw=1920&bih=927&dpr=1#vhid=4dqJxvjv2YdIdM&vssid=mosaic)
 
 
 ## What to study :   
