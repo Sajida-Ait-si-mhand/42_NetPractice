@@ -17,10 +17,10 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 ## Contributing (guidelines for contributions):    
   link for tldraw    
 ## License (if applicable):    
-  How internet works : https://www.youtube.com/watch?v=x3c1ih2NJEg       
-  How IP's works : https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF   
-  Subnet : https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE    
-  OSI model : https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3    
+  🚁 .How internet works : https://www.youtube.com/watch?v=x3c1ih2NJEg       
+  🚁 .Subnet : https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE    
+  🚁 .How IP's works : https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF   
+  🚁 .OSI model : https://www.youtube.com/watch?v=LkolbURrtTs&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=3    
 
 
 
