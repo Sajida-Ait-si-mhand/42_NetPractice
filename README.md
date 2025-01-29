@@ -97,7 +97,7 @@ Let's go to learn new things:
 💜 .Conclusion: Both the hub and the switch help create a network, but while the hub broadcasts data to all devices, the switch directs it to the intended destination only.
 
 ## Router:  
-🚀 Router: Now, let's introduce a router. Suppose we have 4 different networks, each consisting of a switch and several hosts. If I want to send a message from net-1-host-2 to net-3-host-1, I need a router to connect these networks. The router ensures that messages can travel between different networks, enabling communication between hosts in different locations.
+    🚀 Router: Now, let's introduce a router. Suppose we have 4 different networks, each consisting of a switch and several hosts. If I want to send a message from net-1-host-2 to net-3-host-1, I need a router to connect these networks. The router ensures that messages can travel between different networks, enabling communication between hosts in different locations.
 
 💜 .Conclusion: The router connects networks together, enabling communication across different segments.
 
