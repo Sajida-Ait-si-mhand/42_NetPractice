@@ -170,9 +170,12 @@ This is like the roads for your data! 🚗🚦 (Wi-Fi or cables carry the info).
 ## Summary
 TCP/IP is a simplified version of the OSI model, focusing on how data transmission occurs across networks. Each layer plays a critical role in ensuring data is sent and received accurately and efficiently.  
 
+<img src="/images/Screen Shot 2025-02-02 at 01.29.53.png" width="800">
+
 ---
 
 
 ---------
 
 
+Wa_hassan </>
