@@ -72,6 +72,9 @@ Let's go to learn new things:
     
 ## What is Network:      
          It is a group of two computer or more that can share information between them (The purpose of a network is to enable communication and data sharing between devices.)   
+## What is a Protocol?
+        You can imagine a protocol as a **rule** or a set of guidelines that devices follow to communicate with each other. Protocols ensure that data is transmitted, received,  
+        and interpreted correctly across networks. Without protocols, devices wouldn't know how to format, send, or process data.
 ## Type of Netwok:   
       We have 4 type of networking    
          1.PAN  (Personal Area Network):   
