@@ -21,7 +21,7 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 <img src="/images/Screen Shot 2025-02-09 at 00.37.59.png">
 
 NOW TO SOLVE THE EXERCICES YOU HAVE TO FOLLOW THOSE INSTRUCTIONS:   
-## License :    
+## License :   d 
         
 | Topic               | Link |
 |---------------------|------|
