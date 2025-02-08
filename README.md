@@ -11,13 +11,16 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 10  exercises/levels to solve  
 
 ## Installation (how to set it up):  
-    click on the net_practice.1.5.tgz
-<img src="/images/Screen Shot 2025-02-09 at 00.30.44.png" width="200">
+    1. click on the net_practice.1.5.tgz
+    2. The folder will downloaded in your host, Click on it 
+<img src="/images/Screen Shot 2025-02-09 at 00.30.44.png" width="250">
   
 ## Usage (how to run the project):    
-    Take a screenshot
-## Contributing (guidelines for contributions):    
-    link for tldraw    
+    3. Enter your user name
+    4. Click on start
+<img src="/images/Screen Shot 2025-02-09 at 00.37.55.png" width="250">
+
+NOW TO SOLVE THE EXERCICES YOU HAVE TO FOLLOW THOSE INSTRUCTIONS:   
 ## License :    
         
 | Topic               | Link |
