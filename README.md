@@ -11,7 +11,7 @@ This project teach you about networking concepts, Particularly TCP/IP addressing
 10  exercises/levels to solve  
 
 ## Installation (how to set it up):   
-    <img src="/images/𝔢𝔩𝔡𝔯𝔦𝔱𝔠𝔥 ᖭི༏ᖫྀ.git width="800">
+<img src="/images/Screen Shot 2025-02-09 at 00.30.44.png" width="800">
   
 ## Usage (how to run the project):    
     Take a screenshot
