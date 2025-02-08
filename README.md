@@ -10,8 +10,9 @@
 This project teach you about networking concepts, Particularly TCP/IP addressing by exercices, In total we have
 10  exercises/levels to solve  
 
-## Installation (how to set it up):   
-<img src="/images/Screen Shot 2025-02-09 at 00.30.44.png" width="800">
+## Installation (how to set it up):  
+    click on the net_practice.1.5.tgz
+<img src="/images/Screen Shot 2025-02-09 at 00.30.44.png" width="200">
   
 ## Usage (how to run the project):    
     Take a screenshot
